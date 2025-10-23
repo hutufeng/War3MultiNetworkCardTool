@@ -28,6 +28,22 @@
 
 ---
 
+## 🚀 下载与安装 (Download & Installation)
+
+您可以从本仓库的 `Releases` 页面选择以下两种版本之一进行下载：
+
+1.  **`War3NetHelper-SelfContained.zip` (开箱即用版 - 推荐)**
+    -   **优点**: 无需任何前置条件，下载解压后可直接在任何 Windows 电脑上运行。
+    -   **缺点**: 体积较大 (压缩后约 40MB+)。
+    -   **建议**: 如果您不确定该选哪个，或者希望分发给朋友时对方能直接使用，请选择此版本。
+
+2.  **`War3NetHelper-FrameworkDependent.zip` (极致精简版)**
+    -   **优点**: 体积非常小 (压缩后约 1-2MB)。
+    -   **缺点**: 运行前，电脑必须已安装 **[.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0/runtime)**。
+    -   **建议**: 如果您的电脑已经有.NET 8环境，或者您是进阶用户且不介意安装运行库，可以选择此版本。
+
+---
+
 ## 🚀 如何使用 (How to Use)
 
 1.  从 GitHub 的 `Releases` 页面下载最新的压缩包。
