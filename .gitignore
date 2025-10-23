@@ -1,0 +1,22 @@
+# Visual Studio cache files
+.vs/
+
+# Rider cache files
+.idea/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+
+# Portable user settings - should not be committed to the repo
+settings.json
+
+# Rider
+*.sln.iml
+
+# Windows thumbnail cache
+Thumbs.db
